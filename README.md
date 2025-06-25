@@ -60,4 +60,4 @@ The notebook execution follows a structured approach in distinct segments:
 
 ---
 
-Please feel free to contribute, provide feedback, or collaborate to further enhance this project. For inquiries, connect through the project's issues section or contact me directly at [your email].
+Please feel free to contribute, provide feedback, or collaborate to further enhance this project. For inquiries, connect through the project's issues section.
